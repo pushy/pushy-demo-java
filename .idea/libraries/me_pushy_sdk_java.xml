@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="me.pushy.sdk.java" type="repository">
+    <properties maven-id="me.pushy:sdk-java:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/pushy/sdk-java/1.0.0/sdk-java-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
